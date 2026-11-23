@@ -1,0 +1,8 @@
+[wokwi]
+version = 1
+firmware = "build/Pogodynka.ino.bin"
+elf = "build/Pogodynka.ino.elf"
+
+[[net.forward]]
+from = "localhost:9080"
+to = "target:80"

@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "..\\..",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:esp32",
+  "hardwareFolders": "C:\\Users\\Bartek\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\4.0.0,C:\\Users\\Bartek\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\4.0.0",
+  "otherLibrariesFolders": "C:\\Users\\Bartek\\Documents\\Arduino\\libraries",
+  "sketchLocation": "D:\\Pogodynka"
+}
